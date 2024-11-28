@@ -1,6 +1,6 @@
 # Calculadora De Matrizes
-Aplicação criada com Java para calcular Matrizes.
+Application created with Java to calculate matrices.
 **********
-Vesion 1.0 - Código criado por mim para calcular Matrizes, o mesmo está totalmente funcional e rodando através do intelliJ, criei o mesmo devido a algumas atividades da faculdade, pretendo expandi-lo assim que possivel ou caso exista uma necessidade muito repentina.
+Version 1.0 - Code created by me to calculate matrices. It is fully functional and running through IntelliJ. I created it due to some assignments from university.
 **
-# Autor: Daniel Tomazi de Oliveira
+# Author: Daniel Tomazi de Oliveira
